@@ -2,4 +2,5 @@
 ### Abstract :
 Brain tumor is one of the most fearsome medical problems globally today. With the advent of various natural factors, this is among one of those medical problems that is seeing a significant rise in happenstance. Our project aims to utilize the analytical power of neural networking in engineering a method for accurate detection of tumorous tissue in magnetic resonance (MR) images. Based on a type of network known as Deep Neural Network (DNN), our solution proposes, on a limited scale, to identify low and high grade glioblastomas (a type of tumor) pictured in a cerebral MRI scan. These tumors can appear anywhere in the brain, and have variable shapes and contrasts in an MRI, which translates to the requirement of a machine learning solution for detection of these phenomena that exploits a flexible and high capacity DNN, while at the same time, being extremely efficient. Our aim is to produce a rough-edged, efficient, but effective assistive tool that learns as it is used for radiologists’ use in machine-assisted detection of tumors, in order that the physician has a time-effective and accurate tool in their disposal in diagnosis and subsequent treatment of this life-threatening malady.
 <br>
-![](https://www.youtube.com/watch?v=DvP72zne7gQ)
+For project Vedio : https://www.youtube.com/watch?v=DvP72zne7gQ
+
