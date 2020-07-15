@@ -23,3 +23,12 @@ Brain tumor is one of the most fearsome medical problems globally today. With th
 For project Vedio : https://www.youtube.com/watch?v=DvP72zne7gQ
 
 #### We used pretrained model Unet 
+
+Sørensen's original formula was intended to be applied to discrete data. Given two sets, X and Y, it is defined as
+
+{\displaystyle DSC={\frac {2|X\cap Y|}{|X|+|Y|}}}{\displaystyle DSC={\frac {2|X\cap Y|}{|X|+|Y|}}}
+where |X| and |Y| are the cardinalities of the two sets (i.e. the number of elements in each set). The Sørensen index equals twice the number of elements common to both sets divided by the sum of the number of elements in each set.
+
+When applied to Boolean data, using the definition of true positive (TP), false positive (FP), and false negative (FN), it can be written as
+
+{\displaystyle DSC={\frac {2TP}{2TP+FP+FN}}}{\displaystyle DSC={\frac {2TP}{2TP+FP+FN}}}.
