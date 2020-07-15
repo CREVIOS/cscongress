@@ -33,6 +33,4 @@ where |X| and |Y| are the cardinalities of the two sets (i.e. the number of elem
 
 When applied to Boolean data, using the definition of true positive (TP), false positive (FP), and false negative (FN), it can be written as
 
-{\displaystyle DSC={\frac {2TP}{2TP+FP+FN}}}{\displaystyle DSC={\frac {2TP}{2TP+FP+FN}}}.
-
-<img src="https://latex.codecogs.com/gif.latex?{\displaystyle&space;DSC={\frac&space;{2|X\cap&space;Y|}{|X|&plus;|Y|}}}" title="{\displaystyle DSC={\frac {2|X\cap Y|}{|X|+|Y|}}}" />
+<img src="https://latex.codecogs.com/gif.latex?{\displaystyle&space;DSC={\frac&space;{2TP}{2TP&plus;FP&plus;FN}}}" title="{\displaystyle DSC={\frac {2TP}{2TP+FP+FN}}}" />
