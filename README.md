@@ -22,7 +22,7 @@ Brain tumor is one of the most fearsome medical problems globally today. With th
 <br>
 For project Vedio : https://www.youtube.com/watch?v=DvP72zne7gQ
 
-#### We used pretrained model Unet 
+#### We used pretrained model Unet : https://arxiv.org/abs/1505.04597
 
 ### Dice Score :
 Sørensen's original formula was intended to be applied to discrete data. Given two sets, X and Y, it is defined as
