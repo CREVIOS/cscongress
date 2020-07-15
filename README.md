@@ -22,3 +22,4 @@ Brain tumor is one of the most fearsome medical problems globally today. With th
 <br>
 For project Vedio : https://www.youtube.com/watch?v=DvP72zne7gQ
 
+#### We used pretrained model Unet 
