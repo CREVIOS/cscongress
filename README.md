@@ -44,3 +44,11 @@ With default values, this returns the standard ReLU activation: max(x, 0), the e
 The Rectified Linear Unit is the most commonly used activation function in deep learning models. The function returns 0 if it receives any negative input, but for any positive value  x  it returns that value back. So it can be written as  f(x)=max(0,x) .
 Graphically it looks like this:
 <img src="123.jpg" width="200px">
+
+#### Sigmoid Function
+<code>
+tf.keras.activations.sigmoid(x)
+</code>
+Sigmoid activation function, sigmoid(x) = 1 / (1 + exp(-x)).
+Applies the sigmoid activation function. For small values (<-5), sigmoid returns a value close to zero, and for large values (>5) the result of the function gets close to 1.
+Sigmoid is equivalent to a 2-element Softmax, where the second element is assumed to be zero. The sigmoid function always returns a value between 0 and 1.
