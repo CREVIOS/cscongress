@@ -34,3 +34,13 @@ where |X| and |Y| are the cardinalities of the two sets (i.e. the number of elem
 When applied to Boolean data, using the definition of true positive (TP), false positive (FP), and false negative (FN), it can be written as
 
 <img src="https://latex.codecogs.com/gif.latex?{\displaystyle&space;DSC={\frac&space;{2TP}{2TP&plus;FP&plus;FN}}}" title="{\displaystyle DSC={\frac {2TP}{2TP+FP+FN}}}" />
+
+### Activiation :
+
+Activations can either be used through an Activation layer, or through the activation argument supported by all forward layers.
+#### relu(rectifier Linear Units) function
+Applies the rectified linear unit activation function.
+With default values, this returns the standard ReLU activation: max(x, 0), the element-wise maximum of 0 and the input tensor.
+The Rectified Linear Unit is the most commonly used activation function in deep learning models. The function returns 0 if it receives any negative input, but for any positive value  x  it returns that value back. So it can be written as  f(x)=max(0,x) .
+Graphically it looks like this:
+<img src="123.jpg" width="200px">
