@@ -54,4 +54,4 @@ Applies the sigmoid activation function. For small values (<-5), sigmoid returns
 Sigmoid is equivalent to a 2-element Softmax, where the second element is assumed to be zero. The sigmoid function always returns a value between 0 and 1.
 <img src='23.png' width="200px">
 #### Understanding Neral Network 
-<img src='tikz14.png' width="200px"> <img src='tikz15.png' width="200px">
+<img src='tikz14.png' width="500px"> <img src='tikz15.png' width="500px">
