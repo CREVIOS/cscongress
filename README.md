@@ -56,4 +56,4 @@ Sigmoid is equivalent to a 2-element Softmax, where the second element is assume
 
 ### Understanding Neral Network 
 
-<img src='tikz14.png' width="500px"> <img src='tikz15.png' width="500px" style="margin-left:70%;margin-top:5%">
+<img src='tikz14.png' width="500px"> <img src='tikz15.png' width="500px" style="margin-left:70%;margin-top:-5%">
